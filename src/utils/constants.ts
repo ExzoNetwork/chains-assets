@@ -12,7 +12,7 @@ export const AUTO_GENERATED_FILE_LABEL =
 export const CHAINS_DATASOURCE_URL = 'https://chainid.network/chains.json';
 export const ASSETS_LIST_PATH = 'node_modules/assets/blockchains';
 export const ASSETS_RESOURCES_URL =
-  'https://raw.githubusercontent.com/block-wallet/assets/master/blockchains';
+  'https://github.com/ExzoNetwork/assets-wallet/tree/master/blockchains';
 export const OPTIMISM_TOKEN_LIST_URL =
   'https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/master/optimism.tokenlist.json';
 export const ARBITRUM_TOKEN_LIST_URL =
